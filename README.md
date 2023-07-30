@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @adolph1sophi757
+- 👀 I’m interested in Backend developer. I’m currently learning Node.js.
+- 🌱 Backend developer in training, skilled in Node.js. Committed to developing robust, scalable server-side solutions.
